@@ -6,6 +6,7 @@ The idea
   My wife and I like to play a thought-experiment game. The rules are that if an actress (or actor) is in multiple movies then those movies are considered to be in the same universe. By chaining together people and films you can create some very interesting universes.
 
 Examples
+
   Ian McKellen plays, among other roles, both Gandalf in the Lord of the Rings movies and Magneto in a set of X-men movies between 2000 and 2014.
   In those X-men movies we have Patrick Stewart playing Professor Charles Xavier, and an the LotR movies we have Elijah Wood as Frodo.
   The Patrick Stewart connection allows for Star Trek: The Next Generation and its associated movies and actresses/actors to be included.

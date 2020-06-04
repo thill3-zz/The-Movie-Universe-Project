@@ -15,9 +15,9 @@ You can keep going as far as you like. The game can lead to some interesting com
   I had a suspicion that if you had a lot of knowledge of films then you'd probably end up with most or all of Hollywood's movies in the same universe. I'm not that great about remembering actors and movies, though, so I worked on putting together a Python script to look it up for me.
 
 # Process
-  I started trying to do this in R, but I had trouble with the available web-scraping tools.
-  I switched over to Python and the Beautifulsoup library for other web-scraping tools that worked better for the project.
-  Then I discovered that there's an IMDb library with an API that made this project much simpler.
+  - I started trying to do this in R, but I had trouble with the available web-scraping tools.
+  - I switched over to Python and the Beautifulsoup library for other web-scraping tools that worked better for the project.
+  - Then I discovered that there's an IMDb library with an API that made this project much simpler.
 
 # Further updates
 This program is by no means the end of the project. There's plenty more that can be done.

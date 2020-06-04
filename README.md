@@ -1,5 +1,5 @@
 # The-Movie-Universe-Project
-Which actresses, actors, and movies are linked to gether?
+Which actresses, actors, and movies are linked together?
 
 ##The idea
 My wife and I like to play a thought-experiment game. The rules are that if an actress (or actor) is in multiple movies then those movies are considered to be in the same universe. By chaining together people and films you can create some very interesting universes.
